@@ -3,7 +3,7 @@ SD5913 - Assignment template
 
 Clone the repo
 ```
-git clone [https://github.com/cornbearm/assignment-template/edit/main/](https://github.com/cornbearm/assignment-template.git)
+git clone https://github.com/cornbearm/assignment-template.git
 ```
 
 Update the repo
